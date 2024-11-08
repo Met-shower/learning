@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/code" />
+      <excludeFolder url="file://$MODULE_DIR$/pachong/imgs" />
+      <excludeFolder url="file://$MODULE_DIR$/提高效率/imgs" />
+      <excludeFolder url="file://$MODULE_DIR$/提高效率/novels" />
+      <excludeFolder url="file://$MODULE_DIR$/提高效率/video" />
+      <excludeFolder url="file://$MODULE_DIR$/提高效率/movies" />
+      <excludeFolder url="file://$MODULE_DIR$/xiaolvtigao/imgs" />
+      <excludeFolder url="file://$MODULE_DIR$/xiaolvtigao/movies" />
+      <excludeFolder url="file://$MODULE_DIR$/xiaolvtigao/novels" />
+      <excludeFolder url="file://$MODULE_DIR$/xiaolvtigao/zhihu" />
+      <excludeFolder url="file://$MODULE_DIR$/pachong" />
+      <excludeFolder url="file://$MODULE_DIR$/药品/所有药品" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.13" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
